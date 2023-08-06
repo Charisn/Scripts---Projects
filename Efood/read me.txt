@@ -1,0 +1,5 @@
+This is a javascript run in console on page of sklavenitis discounts.
+
+The top 2 variables are the classes of the divs containing the products and the divs with class containing the percentage number.
+
+What it does is sort out all the products in the discounts page by discount, from higher to lower.
