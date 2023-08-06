@@ -1,0 +1,11 @@
+This script was created to fill one of my needs to be present in lectures of a seminar times and dates which i could not attend.
+
+The script accepts an array of dates and times.
+
+It opens chromium at the exact day and time of the array and opens the login page in line 28.
+
+After successfully log in it, searches for todays lecture and clicks its link.
+
+Zoom meeting is then opened.
+
+At 22:00 it force kills the application zoom to exit the call. ( All calls ended at 22:00 )

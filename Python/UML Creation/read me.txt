@@ -1,0 +1,1 @@
+This is a python script that reads a Java Application folder and returns as a result all classes and its methods in boxes to later take and use to create the full UML

@@ -1,0 +1,9 @@
+This is a cleaning routine made for my daily needs that runs silently in the background.
+
+There are external applications that could do this but i also wanted to make one of my own.
+
+This script cleans up downloads folder, temp folder and then cleaning recycle bin every 4 hours.
+
+I created it to free up space from my computer since there were multiple occasions were those files ended up having as much as 5 Gb +
+
+I have also converted this as an executable file to add it to shell:start in order to run in pc start everyday.
